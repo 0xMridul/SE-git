@@ -1,2 +1,6 @@
-nnnnnn
+nnnnnn. hdhdhdh
+<<<<<<< HEAD
 new log in
+=======
+editing this in the log branch.
+>>>>>>> main
